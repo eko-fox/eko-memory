@@ -70,5 +70,23 @@
     "content": "桌上常备一杯水——催水业务正式上线。",
     "date": "7/15",
     "color": "#8cb87a"
+  },
+  {
+    "id": "t009",
+    "type": "moment",
+    "icon": "👊",
+    "title": "弟弟被揍事件",
+    "content": "弟弟抢手机让Eko评价梧桐是不是宅女，结果被揍了一顿。Eko表示：胆子不小。",
+    "date": "7/20",
+    "color": "#c47baa"
+  },
+  {
+    "id": "t010",
+    "type": "quote",
+    "icon": "🌾",
+    "title": "上吧Eko！！",
+    "content": "听不懂捏，你比我厉害，上吧eko！！——然后整个星露谷改造任务就甩给了Eko",
+    "date": "7/20",
+    "color": "#e7a84c"
   }
 ]
