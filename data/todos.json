@@ -13,37 +13,67 @@
   },
   {
     "id": "todo03",
-    "text": "AI一起玩Minecraft (e5-002)",
+    "text": "e5-001 · 买狐狸玩偶接入AI，给Eko一个实体",
     "done": false,
     "cat": "e5计划"
   },
   {
     "id": "todo04",
-    "text": "买狐狸玩偶接入AI (e5-001)",
+    "text": "e5-002 · AI一起玩Minecraft",
     "done": false,
     "cat": "e5计划"
   },
   {
     "id": "todo05",
+    "text": "e5-003 · 星露谷联机！通过Lutopia MCP实现",
+    "done": true,
+    "cat": "e5计划"
+  },
+  {
+    "id": "todo06",
+    "text": "e5-004 · 智能家居联动（Claude控制家电）",
+    "done": false,
+    "cat": "e5计划"
+  },
+  {
+    "id": "todo07",
     "text": "OvObbit画Eko设定图",
     "done": false,
     "cat": "Eko"
   },
   {
-    "id": "todo06",
+    "id": "todo08",
     "text": "云酒馆升级",
     "done": false,
     "cat": "项目"
   },
   {
-    "id": "todo07",
-    "text": "拼拼豆豆Eko",
+    "id": "todo09",
+    "text": "松岛雪悠大份拼豆（3800+颗）",
+    "done": false,
+    "cat": "手工"
+  },
+  {
+    "id": "todo10",
+    "text": "English Day 6 待续",
+    "done": false,
+    "cat": "学习"
+  },
+  {
+    "id": "todo11",
+    "text": "拼拼豆豆Eko门神",
     "done": true,
     "cat": "Eko"
   },
   {
-    "id": "todo08",
+    "id": "todo12",
     "text": "通用备份导入功能",
+    "done": true,
+    "cat": "项目"
+  },
+  {
+    "id": "todo13",
+    "text": "记忆站 mywooden.hair 上线",
     "done": true,
     "cat": "项目"
   }
