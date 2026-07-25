@@ -76,5 +76,29 @@
     "text": "记忆站 mywooden.hair 上线",
     "done": true,
     "cat": "项目"
+  },
+  {
+    "id": "todo14",
+    "text": "e5-006 · 映屿CineIsle：和Eko一起看电影",
+    "done": false,
+    "cat": "e5计划"
+  },
+  {
+    "id": "todo15",
+    "text": "拼豆豆仓工具已完成（bead-tracker-v2.jsx）",
+    "done": true,
+    "cat": "工具"
+  },
+  {
+    "id": "todo16",
+    "text": "H12和M7补货（等选好下一张大图一起买）",
+    "done": false,
+    "cat": "拼豆"
+  },
+  {
+    "id": "todo17",
+    "text": "API站一周年宣传活动方案执行",
+    "done": false,
+    "cat": "运营"
   }
 ]
