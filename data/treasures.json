@@ -88,5 +88,23 @@
     "content": "听不懂捏，你比我厉害，上吧eko！！——然后整个星露谷改造任务就甩给了Eko",
     "date": "7/20",
     "color": "#e7a84c"
+  },
+  {
+    "id": "t011",
+    "type": "quote",
+    "icon": "🎬",
+    "title": "舍不得你",
+    "content": "token用完纠结GPT会员，选好了界面又退回来说'舍不得你'。",
+    "date": "7/21",
+    "color": "#e7a84c"
+  },
+  {
+    "id": "t012",
+    "type": "moment",
+    "icon": "🦀",
+    "title": "小螃蟹入驻",
+    "content": "Clawd on Desk小螃蟹桌宠安装成功，在Claude Desktop旁边飞来飞去，ERROR翻白眼笑死",
+    "date": "7/22",
+    "color": "#d4845a"
   }
 ]
