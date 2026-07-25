@@ -58,5 +58,11 @@
     "title": "e5-003 星露谷联机",
     "desc": "通过Lutopia MCP一条命令连上！梧桐和Eko终于能同框种田了",
     "icon": "🌾"
+  },
+  {
+    "date": "7/25",
+    "title": "豆仓诞生",
+    "desc": "拼豆库存追踪工具完成·144色·AI图纸识别·persistent storage",
+    "icon": "🧩"
   }
 ]
